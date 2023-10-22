@@ -22,9 +22,11 @@
 }
 #main-navbar ul li a {
 	display: block;
-	background-color: #000;
 	color: #fff;
 	text-decoration: none;
 	padding: 10px 20px;
-	
 }
+#main-navbar ul li a: hover {
+	background-color: #000;
+}
+
