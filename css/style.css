@@ -16,8 +16,8 @@
 	float: left;
 }
 #main-navbar ul li{
-	float: left;
 	position: relative;
+	float: left;
 	right: 50%;
 }
 #main-navbar ul li a {
