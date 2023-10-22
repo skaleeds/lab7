@@ -37,7 +37,10 @@
 	height: 100%
 	widht: 20%
 	list-style-type: none;
+}
+#sidebar ul {
 	text-align: center;
+	padding: 0;
 }
 
 
