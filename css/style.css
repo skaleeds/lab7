@@ -34,7 +34,7 @@
 #sidebar{
 	position: fixed;
 	right: 0%
-	backround-color: red;
+	background-color: #red;
 	height: 100%
 	widht: 20%
 	list-style-type: none;
