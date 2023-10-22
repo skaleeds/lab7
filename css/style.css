@@ -1,5 +1,5 @@
 #main-navbar{
-	background-color: blue;
+	background-color: navy;
 	overflow: hidden;
 }
 #navbar-container{
@@ -27,6 +27,6 @@
 	padding: 10px 20px;
 }
 #main-navbar ul li a: hover {
-	background-color: #000;
+	background-color: #green;
 }
 
