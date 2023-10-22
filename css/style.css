@@ -30,4 +30,14 @@
 	background-color: #000;
 	text-decoration: underline overline;
 }
+#sidebar{
+	position: fixed;
+	right: 0%
+	backround-color: red;
+	height: 100%
+	widht: 20%
+	list-style-type: none;
+	text-align: center;
+}
+
 
