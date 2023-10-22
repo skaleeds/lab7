@@ -19,6 +19,7 @@
 	position: relative;
 	float: left;
 	right: 50%;
+	display: block;
 }
 #main-navbar ul li a {
 	display: block;
